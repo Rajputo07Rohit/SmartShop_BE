@@ -1,0 +1,83 @@
+[
+  {
+    "shopName": "QuickBuy Store",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5946,
+        12.9716
+      ]
+    },
+    "stock": [
+      {
+        "itemName": "Milk",
+        "price": 30,
+        "availableQty": 100
+      },
+      {
+        "itemName": "Bread",
+        "price": 40,
+        "availableQty": 50
+      },
+      {
+        "itemName": "Rice",
+        "price": 60,
+        "availableQty": 200
+      }
+    ]
+  },
+  {
+    "shopName": "Budget Mart",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.597,
+        12.9728
+      ]
+    },
+    "stock": [
+      {
+        "itemName": "Milk",
+        "price": 28,
+        "availableQty": 80
+      },
+      {
+        "itemName": "Eggs",
+        "price": 7,
+        "availableQty": 500
+      },
+      {
+        "itemName": "Rice",
+        "price": 58,
+        "availableQty": 150
+      }
+    ]
+  },
+  {
+    "shopName": "Fresh & Fine",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.58,
+        12.975
+      ]
+    },
+    "stock": [
+      {
+        "itemName": "Bread",
+        "price": 42,
+        "availableQty": 60
+      },
+      {
+        "itemName": "Eggs",
+        "price": 8,
+        "availableQty": 400
+      },
+      {
+        "itemName": "Oil",
+        "price": 120,
+        "availableQty": 70
+      }
+    ]
+  }
+]
