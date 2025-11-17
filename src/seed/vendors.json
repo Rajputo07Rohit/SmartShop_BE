@@ -79,5 +79,44 @@
         "availableQty": 70
       }
     ]
-  }
+  },
+   
+
+    {
+      "shopName": "FreshMart Superstore",
+      "location": {
+        "type": "Point",
+        "coordinates": [85.3162, 23.3285]
+      },
+      "stock": [
+        { "itemName": "Milk", "price": 32, "availableQty": 90 },
+        { "itemName": "Sugar", "price": 48, "availableQty": 140 },
+        { "itemName": "Eggs", "price": 7, "availableQty": 350 }
+      ]
+    },
+    {
+      "shopName": "DailyNeeds Mart",
+      "location": {
+        "type": "Point",
+        "coordinates": [85.3144, 23.3259]
+      },
+      "stock": [
+        { "itemName": "Rice", "price": 54, "availableQty": 160 },
+        { "itemName": "Bread", "price": 39, "availableQty": 50 },
+        { "itemName": "Oil", "price": 118, "availableQty": 85 }
+      ]
+    },
+    {
+      "shopName": "SmartBasket Store",
+      "location": {
+        "type": "Point",
+        "coordinates": [85.3179, 23.3277]
+      },
+      "stock": [
+        { "itemName": "Milk", "price": 31, "availableQty": 120 },
+        { "itemName": "Wheat Flour", "price": 44, "availableQty": 180 },
+        { "itemName": "Bread", "price": 41, "availableQty": 55 }
+      ]
+    }
+  
 ]
